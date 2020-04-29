@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: qapio-python-test-kit
+Version: 0.1.0
+Summary: Qapio Test Kit for Python
+Home-page: https://github.com/tdip/qapio-python-test-kit
+Author: Turning Data Into Products A.S.
+Author-email: hello@quantifio.no
+License: MIT
+Description: # qapio-python-test-kit
+Keywords: api qapio finance
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: PyPy

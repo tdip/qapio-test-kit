@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.pyc
+qapio/Factor.pyc
+qapio/FactorContext.pyc
+qapio/FactorRunner.pyc
+qapio/FluxQueryBuilder.pyc
+qapio/FormulaArgs.pyc
+qapio/FormulaResult.pyc
+qapio/QapioBackend.pyc
+qapio/__init__.pyc
+qapio_python_test_kit.egg-info/PKG-INFO
+qapio_python_test_kit.egg-info/SOURCES.txt
+qapio_python_test_kit.egg-info/dependency_links.txt
+qapio_python_test_kit.egg-info/requires.txt
+qapio_python_test_kit.egg-info/top_level.txt
